@@ -11,7 +11,7 @@ setup(
     install_requires=[
         "datasets>=3.0.1",
         "transformers>=4.45.1",
-        "torch>=2.4.1",
+        "pytorch>=2.4.1",
         "inflect>=7.4.0",
     ],
     classifiers=[
